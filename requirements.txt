@@ -1,0 +1,9 @@
+openai
+scikit-learn
+sentence-transformers
+beautifulsoup4
+requests
+langchain
+langchain-community
+numpy
+python-dotenv
