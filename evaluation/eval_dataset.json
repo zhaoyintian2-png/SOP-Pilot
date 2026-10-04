@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "question": "What should a new employee do during their first week at GitLab?",
+    "answer_key": "Complete tasks in the onboarding issue, set up hardware/software accounts, review core handbook pages, and schedule introductory coffee chats."
+  },
+  {
+    "id": 2,
+    "question": "How do employees request time off (PTO) at GitLab?",
+    "answer_key": "Use the designated HR/PTO tracking system and notify the team asynchronously in advance."
+  },
+  {
+    "id": 3,
+    "question": "What is the policy regarding coffee chats for new hires?",
+    "answer_key": "Encouraged to build relationships and network across teams using informal virtual coffee chats."
+  },
+  {
+    "id": 4,
+    "question": "How are internal job transfers or career mobility supported at GitLab?",
+    "answer_key": "Employees can apply for open internal positions after meeting tenure requirements and discussing with their manager."
+  },
+  {
+    "id": 5,
+    "question": "What is the process for updating personal information or emergency contacts?",
+    "answer_key": "Update details directly through the company’s internal HRIS (Human Resources Information System) portal."
+  },
+  {
+    "id": 6,
+    "question": "What are GitLab's core values regarding asynchronous communication?",
+    "answer_key": "Write things down, default to public communication, and respect time zone differences by not expecting immediate replies."
+  },
+  {
+    "id": 7,
+    "question": "How should team members manage working across different time zones?",
+    "answer_key": "Rely on async handovers, document decisions in issues/merge requests, and avoid scheduling unnecessary live meetings."
+  },
+  {
+    "id": 8,
+    "question": "What are the guidelines for recording meetings for colleagues who cannot attend?",
+    "answer_key": "Most internal meetings should be recorded and shared so team members in other time zones can catch up."
+  },
+  {
+    "id": 9,
+    "question": "How does GitLab encourage informal communication in an all-remote environment?",
+    "answer_key": "Through virtual social channels, coffee chats, and optional interest-based Slack/chat groups."
+  },
+  {
+    "id": 10,
+    "question": "What are the expectations for documenting decisions in the handbook?",
+    "answer_key": "'If it's not in the handbook, it doesn't exist.' All permanent policy and process changes must be updated in the handbook."
+  },
+  {
+    "id": 11,
+    "question": "What are the general turnaround time expectations for code reviews at GitLab?",
+    "answer_key": "Aim for a first response or review within 24 hours to keep the engineering workflow moving efficiently."
+  },
+  {
+    "id": 12,
+    "question": "Who is responsible for merging a merge request (MR) after approvals?",
+    "answer_key": "Typically the author of the merge request, after ensuring all pipeline checks pass and required approvals are met."
+  },
+  {
+    "id": 13,
+    "question": "How should a reviewer handle disagreements in a code review?",
+    "answer_key": "Focus on constructive feedback, refer to style guides, discuss asynchronously, and escalate to a maintainer if needed."
+  },
+  {
+    "id": 14,
+    "question": "What is the purpose of draft merge requests (formerly WIP)?",
+    "answer_key": "To share work-in-progress code early for visibility, feedback, or automated testing before it is ready for final review."
+  },
+  {
+    "id": 15,
+    "question": "Where can engineers find guidelines on writing clean and maintainable code?",
+    "answer_key": "In the GitLab Engineering Workflow and language-specific style guide sections of the handbook."
+  },
+  {
+    "id": 16,
+    "question": "What is GitLab's policy on password managers and multi-factor authentication (MFA)?",
+    "answer_key": "MFA is mandatory for all company-related accounts, and approved password managers must be used."
+  },
+  {
+    "id": 17,
+    "question": "How should an employee handle suspicious phishing emails?",
+    "answer_key": "Report them immediately using the designated security reporting mechanism or email alias."
+  },
+  {
+    "id": 18,
+    "question": "What are the guidelines for using personal devices for work purposes?",
+    "answer_key": "Must comply with security baselines, including full-disk encryption, strong screen locks, and MDM solutions if required."
+  },
+  {
+    "id": 19,
+    "question": "Where should an employee report a non-urgent security vulnerability or bug?",
+    "answer_key": "Through GitLab's internal security issue tracker or bug bounty / security reporting channels."
+  },
+  {
+    "id": 20,
+    "question": "What is the clean desk and screen policy when working in public places?",
+    "answer_key": "Lock screens whenever walking away from devices and prevent shoulder surfing in public spaces."
+  },
+  {
+    "id": 21,
+    "question": "Which communication tool is preferred for asynchronous discussions at GitLab?",
+    "answer_key": "Issues and Merge Requests (MRs) are preferred over chat for decisions because they are searchable and persistent."
+  },
+  {
+    "id": 22,
+    "question": "What are the guidelines for writing clear and effective issue descriptions?",
+    "answer_key": "State the context, objective, proposal clearly, and use bullet points or checklists for action items."
+  },
+  {
+    "id": 23,
+    "question": "How should employees handle cross-functional communication and handovers?",
+    "answer_key": "Use public channels, mention relevant DRI (Directly Responsible Individual), and document outcomes in the relevant issue."
+  },
+  {
+    "id": 24,
+    "question": "What is the expectation for responding to internal mentions or messages?",
+    "answer_key": "Respond within a reasonable business timeframe, keeping in mind async norms and time zone differences."
+  },
+  {
+    "id": 25,
+    "question": "How does the handbook handle updates and contributions from team members?",
+    "answer_key": "Anyone at GitLab can (and is encouraged to) propose handbook updates via a merge request (Everyone Can Contribute)."
+  }
+]
